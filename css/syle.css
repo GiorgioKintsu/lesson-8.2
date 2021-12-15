@@ -105,10 +105,9 @@
 .bottombox{
     width: 1170px;
     margin: 7px auto 132px auto;
-    background-color: whitesmoke;
     display: flex;
     flex-wrap: wrap;
-    align-content: space-between;
+    justify-content: space-between;
 }
 .boxes{
     width: 360px;
@@ -117,7 +116,6 @@
     flex-direction: column;
     text-align: center;
     margin-top: 60px;
-    margin-left: 25px;
 }
 .otherboximage{
     width: 100px;
