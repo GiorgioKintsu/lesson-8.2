@@ -1,0 +1,171 @@
+.division{
+    font-size: 32px;
+    text-transform: capitalize;
+    font-weight: regular;
+    color: #4B647E;
+    font-family: 'Lazurski';
+    width: 1500px;
+    display: flex;
+    justify-content: space-between;
+    padding: 67px 0 0 132px;
+    margin: 0 auto;
+}
+.navigatsia{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #3D37F1;
+    font-family: 'Lato';
+    width: 581px;
+    display: flex;
+    justify-content: space-between;    
+}
+/* firstsection */
+/* topbox */
+.topbox{
+    display: flex;
+    justify-content: space-between;
+    width: 1500px;
+    margin-top: 267px;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* left box */
+.leftbox{
+    display: flex;
+    flex-direction: column;
+}
+.provideparagraph{
+    font-size: 78px;
+    color: #534D4D;
+    font-weight: bold;
+    line-height: 109px;
+    font-family: 'Lato';
+    width: 600px;
+}
+.mobileparagraph{
+    font-size: 22px;
+    color: #534D4D;
+    font-family: 'Roboto';
+    margin-top: 42px;
+}
+.bluebox{
+    width: 263px;
+    height: 76px;
+    background-color: #3D37F1;
+    border-radius: 38px;
+    margin-top: 160px;
+    display: flex;
+    justify-content: center;
+}
+.wavinghand{
+    width: 30px;    
+}
+.wavebox{
+    font-size: 23px;
+    color: #FFFFFF;
+    margin-top: 28px;
+    margin-left: 24px;
+}
+/* right box */
+.programingimage{
+    width: 800px;
+    margin-left: 307px;
+}
+/* second section */
+.topblock{
+    width: 712px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.service{
+    font-size: 20px;
+    color: #3D37F1;
+    font-weight: bold;
+    font-family: 'Lato';
+    margin-top: 365px;
+}
+.topblocktitle{
+    font-size: 40px;
+    color: #5A5454;
+    font-family: 'Lato';
+    margin-top: 17px;
+    
+}
+.topblockparagraph{
+    font-size: 18px;
+    color: #747474;
+    font-family: 'Roboto';
+    margin-top: 21px;
+    text-align: center;
+}
+/* bottom box */
+.bottombox{
+    width: 1170px;
+    margin: 7px auto 132px auto;
+    background-color: whitesmoke;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+.boxes{
+    width: 360px;
+    background-color: #FBBA77;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 25px;
+}
+.otherboximage{
+    width: 100px;
+    margin-top: 88px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.boxtitle{
+    font-size: 22px;
+    color: #FFFFFF;
+    font-family: 'Lato';
+    margin-top: 57px;
+}
+.boxparagraph{
+    font-size: 16px;
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    width: 328px;
+    margin-top: 13px;
+}
+.whitebox{
+    width: 130px;
+    height: 45px;
+    border-radius: 23px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px auto 48px auto;
+}
+.whiteboxparagraph{
+    font-size: 15;
+    color: #4B647E;
+    font-family: 'Roboto';
+
+}
+.secondcolor{
+    background-color: #41EAE3;
+}
+.thirdcolor{
+    background-color: #69529F;
+}
+.fourthcolor{
+    background-color: #4386D2;
+}
+.fifthcolor{
+    background-color: #A5A2F6;
+}
+.sixthcolor{
+    background-color: #FF8088;
+}
